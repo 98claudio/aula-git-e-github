@@ -1,0 +1,18 @@
+            <div class="desenvolvedores">
+                <P>Desde 2015 unido propositos.<br> uma nova forma desenvolvedor.</P>
+            </div>
+            <div class="dev_conteudo">
+                
+
+                <div>
+                    <h2>para desenvolvedores</h2>
+                    <ul>
+                        <li>encontrar serviços</li>
+                        <li>divulgar suas hadskills</li>
+                    </ul>
+                    <a href=""> criar conta</a>
+                </div>
+            </div>
+
+
+        </section>
